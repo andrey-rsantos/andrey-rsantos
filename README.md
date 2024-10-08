@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Nascido em São Paulo (capital) no ano de 2005, me mudei para o norte do Paraná no final de 2023, onde atualmente estou cursando o segundo semestre de <b>Análise e Desenvolvimento de Sistemas</b> pela faculdade <b>Cesumar</b>. 📚</p>
+<p align="left">Nascido em São Paulo (capital) no ano de 2005, me mudei para o norte do Paraná no final de 2023, onde atualmente estou cursando o segundo semestre de Análise e Desenvolvimento de Sistemas pela faculdade Cesumar. 📚</p>
 
 ###
 
@@ -19,11 +19,13 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />

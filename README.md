@@ -13,13 +13,10 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
-  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="TailwindCSS logo" />
-  <img width="12" />
-
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
   <img width="12" />
 
@@ -35,8 +32,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
   <img width="12" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="Supabase logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="Vercel logo" />
+  <img width="12" />
+
   <img src="assets/elementor.svg" height="40" alt="Elementor logo" />
   <img width="12" />
 
   <img src="assets/N8n-logo-new.svg.png" height="40" alt="n8n logo" />
 </div>
+

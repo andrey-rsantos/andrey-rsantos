@@ -3,9 +3,9 @@
 <h2 align="left">Sobre mim</h2>
 
 <p align="left">
-  Natural de São Paulo, atualmente vivo na região metropolitana de Maringá - PR, onde trabalho na Vow Digital.<br><br>
-  Sou especializado no desenvolvimento de websites e lojas virtuais, além de ser proficiente em criar automações, agentes de IA e sistemas/aplicações personalizados.<br><br>
-  Minha missão é criar soluções digitais que não apenas funcionam, mas encantam e geram resultados reais para os negócios dos meus clientes.
+  Natural de São Paulo, atualmente vivo na região metropolitana de Maringá – PR, onde atuo na Vow Digital como líder técnico (CTO).<br><br>
+  Além da liderança estratégica, sigo atuando hands-on no desenvolvimento. Sou especializado na criação de websites e lojas virtuais, além de construir automações, agentes de IA e aplicações personalizadas.<br><br>
+  Minha missão é desenvolver soluções digitais que unam desempenho, clareza técnica e resultado real.
 </p>
 
 <h2 align="left">Linguagens e Frameworks que mais tenho afinidade</h2>

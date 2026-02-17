@@ -4,7 +4,7 @@
 
 <p align="left">
   Natural de São Paulo, atualmente vivo na região metropolitana de Maringá – PR, onde atuo na Vow Digital como líder técnico (CTO).<br><br>
-  Além da liderança estratégica, sigo atuando hands-on no desenvolvimento. Sou especializado na criação de websites e lojas virtuais, além de construir automações, agentes de IA e aplicações personalizadas.<br><br>
+  Além da liderança estratégica, sigo atuando hands-on no desenvolvimento. Sou especializado na criação de websites, lojas virtuais e automações, além de construir agentes de IA e aplicações personalizadas.<br><br>
   Minha missão é desenvolver soluções digitais que unam desempenho, clareza técnica e resultado real.
 </p>
 

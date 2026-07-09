@@ -1,12 +1,10 @@
-<h1 align="left">Olá, eu sou Andrey</h1>
+<h1 align="left">Opa, eu sou Andrey👋</h1>
 
-<h2 align="left">Sobre mim</h2>
+<p align="left"> <strong>Desenvolvedor Full-Stack | Gestor de Automações | Agentes de IA | Liderança Técnica</strong> </p>
 
-<p align="left">
-  Natural de São Paulo, atualmente vivo na região metropolitana de Maringá – PR, onde atuo na Vow Digital como líder técnico (CTO).<br><br>
-  Além da liderança estratégica, sigo atuando hands-on no desenvolvimento. Sou especializado na criação de websites, lojas virtuais e automações, além de construir agentes de IA e aplicações personalizadas.<br><br>
-  Minha missão é desenvolver soluções digitais que unam desempenho, clareza técnica e resultado real.
-</p>
+<p align="left">Tenho experiência na criação de soluções digitais, sendo: sistemas sob medida, lojas virtuais, automações e agentes de IA. Ao longo da minha trajetória, atuei tanto na execução técnica quanto na liderança estratégica, passando por posições como <strong>Head de Desenvolvimento</strong> e <strong>CTO</strong>. Nesse período, liderei times técnicos, estruturei processos, organizei fluxos de entrega e participei ativamente do desenvolvimento de projetos estratégicos. </p>
+
+<p align="left"> Tenho perfil hands-on e gosto de construir soluções que conectam tecnologia, produto e resultado real para o negócio. </p>
 
 <h2 align="left">Linguagens e Frameworks que mais tenho afinidade</h2>
 

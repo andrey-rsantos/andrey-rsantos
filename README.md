@@ -1,4 +1,4 @@
-<h2 align="left">🇧🇷 Português</h2>
+<h2 align="left">Português 🇧🇷</h2>
 
 <h1 align="left">Opa, eu sou Andrey 👋</h1>
 
@@ -16,7 +16,7 @@ Tenho perfil hands-on e gosto de construir soluções que conectam <strong>tecno
 
 <br />
 
-<h2 align="left">🇺🇸 English</h2>
+<h2 align="left">English 🇺🇸</h2>
 
 <h1 align="left">Hey, I'm Andrey 👋</h1>
 

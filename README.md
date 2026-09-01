@@ -3,15 +3,23 @@
 <h1 align="left">Opa, eu sou Andrey 👋</h1>
 
 <p align="left">
-  <strong>Desenvolvedor Full-Stack | Gestor de Automações | Agentes de IA | Liderança Técnica</strong>
+  <strong>Martech & Automação | Integrações, E-commerce e Desenvolvimento com IA</strong>
 </p>
 
 <p align="left">
-Tenho experiência na criação de soluções digitais, como <strong>sistemas sob medida, lojas virtuais, automações e agentes de IA</strong>. Ao longo da minha trajetória, atuei tanto na execução técnica quanto na liderança estratégica, passando por posições como <strong>Head de Desenvolvimento</strong> e <strong>CTO</strong>. Nesse período, liderei times técnicos, estruturei processos, organizei fluxos de entrega e participei ativamente do desenvolvimento de projetos estratégicos.
+Tenho 21 anos e venho construindo minha carreira em tecnologia principalmente através de projetos envolvendo <strong>automações, integrações, e-commerce, desenvolvimento web e soluções com IA</strong>.
 </p>
 
 <p align="left">
-Tenho perfil hands-on e gosto de construir soluções que conectam <strong>tecnologia, produto e resultado real para o negócio</strong>.
+Grande parte da minha experiência aconteceu dentro de uma agência de marketing digital, onde comecei como desenvolvedor e posteriormente tive a oportunidade de liderar uma pequena equipe. Foi nesse ambiente que comecei a me aprofundar em <strong>n8n, APIs e integração entre sistemas</strong>, criando automações para processos internos, projetos de clientes e operações de marketing.
+</p>
+
+<p align="left">
+Hoje, gosto especialmente de trabalhar na interseção entre <strong>tecnologia, marketing e produto</strong>, construindo automações, integrações, agentes de IA, sistemas e soluções para e-commerce. Também venho trabalhando mais próximo de <strong>Martech, performance e Meta Ads</strong>.
+</p>
+
+<p align="left">
+Ainda tenho muito a aprender e sigo aprofundando meus conhecimentos em desenvolvimento, IA e produto. Gosto principalmente de entender um problema, explorar ferramentas e encontrar uma forma prática de resolvê-lo usando tecnologia.
 </p>
 
 <br />
@@ -21,15 +29,23 @@ Tenho perfil hands-on e gosto de construir soluções que conectam <strong>tecno
 <h1 align="left">Hey, I'm Andrey 👋</h1>
 
 <p align="left">
-  <strong>Full-Stack Developer | Automation Specialist | AI Agents | Technical Leadership</strong>
+  <strong>Martech & Automation | Integrations, E-commerce & AI-Powered Development</strong>
 </p>
 
 <p align="left">
-I have experience building digital solutions, including <strong>custom software, e-commerce stores, automations, and AI agents</strong>. Throughout my career, I have worked both in hands-on technical roles and in strategic leadership positions, including <strong>Head of Development</strong> and <strong>CTO</strong>. During this time, I led technical teams, structured development processes, organized delivery workflows, and actively contributed to the development of strategic projects.
+I'm 21 years old and have been building my career in technology through projects involving <strong>automation, integrations, e-commerce, web development, and AI-powered solutions</strong>.
 </p>
 
 <p align="left">
-I have a hands-on mindset and enjoy building solutions that connect <strong>technology, product, and real business results</strong>.
+Most of my experience comes from working at a digital marketing agency, where I started as a developer and later had the opportunity to lead a small development team. That's where I started going deeper into <strong>n8n, APIs, and system integrations</strong>, building automations for internal processes, client projects, and marketing operations.
+</p>
+
+<p align="left">
+Today, I'm especially interested in the intersection of <strong>technology, marketing, and product</strong>, building automations, integrations, AI agents, systems, and e-commerce solutions. I've also been working more closely with <strong>Martech, performance marketing, and Meta Ads</strong>.
+</p>
+
+<p align="left">
+I still have a lot to learn and continue improving my skills in software development, AI, and product. What I enjoy most is understanding a problem, exploring the available tools, and finding a practical way to solve it with technology.
 </p>
 
 <br />
@@ -40,34 +56,37 @@ I have a hands-on mindset and enjoy building solutions that connect <strong>tech
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n logo" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/meta/0467DF" height="40" alt="meta ads logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="40" alt="supabase logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="40" alt="supabase logo" />
-  <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40" alt="n8n logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/vercel/000000/FFFFFF" height="40" alt="vercel logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" />
